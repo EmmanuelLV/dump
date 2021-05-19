@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"ce9d9fed38f24ef89af580b95babe3c9","collectionName":"diabeticsData_test"}
